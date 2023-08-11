@@ -1,0 +1,13 @@
+{
+  "ul-theme-settings@@ul-color-accent": "ul-blue",
+  "ul-theme-settings@@ul-theme-light": "ul-lobstertime-lt",
+  "ul-theme-settings@@ul-theme-dark": "ul-obplus-dt",
+  "ul-theme-settings@@font-text-theme": "Aspekta",
+  "ul-theme-settings@@font-title": "Nightingale",
+  "ul-theme-settings@@ul-faintselect": false,
+  "ul-theme-settings@@ul-accent-title": false,
+  "ul-theme-settings@@ul-header-line-h1": true,
+  "ul-theme-settings@@ul-header-size": "ul-headings-dec",
+  "ul-theme-settings@@ul-header-line-accent": "var(--background-modifier-border)",
+  "ul-theme-settings@@ul-colorful-headings": false
+}

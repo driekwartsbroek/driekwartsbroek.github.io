@@ -1,0 +1,36 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": "#ffffff",
+    "recentlyUsedIcons": [
+      "TiAccessible",
+      "RiEmotionHappyFill",
+      "TiReportSearch",
+      "FasPeopleArrowsLeftRight",
+      "TiAmpersand"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false
+  },
+  "UX Bible/Colors": "LiPaintbrush",
+  "UX Bible/Components": "SiHiveBlockchain",
+  "UX Bible/Lay-out": "TiLayout",
+  "UX Bible/Methodology": "SiDwavesystems",
+  "UX Bible/Other Best Practices": "TiBulb",
+  "UX Bible/Text": "IbText",
+  "UX Bible/UX Writing": "TiWriting",
+  "UX Bible/Workshops": "FasPeopleArrowsLeftRight",
+  "UX Bible/Research": "TiReportSearch",
+  "UX Bible/Psychology": "RiEmotionHappyFill",
+  "UX Bible/Accessibility": "TiAccessible"
+}

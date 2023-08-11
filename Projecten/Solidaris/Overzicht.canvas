@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"type":"text","text":"## 2. Het is niet eenvoudig om (terug)betalingen van verschillende gezinsleden te zien","id":"1d2f6c22904df21d","x":-420,"y":0,"width":380,"height":140},
+		{"type":"text","text":"Andere naamgeving: “Tussenkomst“","id":"58c51e627c503348","x":-160,"y":-460,"width":200,"height":60},
+		{"type":"text","text":"# Problemen","id":"ca110a3d07478bd5","x":-420,"y":-200,"width":200,"height":60},
+		{"type":"text","text":"## 3. De jaarfiltering is niet intuitief voor leden","id":"7d88f4224941cebf","x":-420,"y":160,"width":380,"height":100},
+		{"type":"text","text":"## 4. Het overzicht moet overzichtelijk blijven, ook voor leden met heel veel betalingen","id":"4de78bcc2bb4574d","x":-420,"y":280,"width":380,"height":140},
+		{"type":"text","text":"## 5. Het moet mogelijk zijn om een overzicht van alle, bepaalde of 1 specifieke terugbetaling te downloaden in PDF.","id":"e679c5b48a5198cf","x":-420,"y":440,"width":380,"height":180},
+		{"type":"text","text":"## Hoe communiceren we naar leden wat een derdebetalersbetaling is?","id":"05673ae8ab123491","x":480,"y":-810,"width":560,"height":210},
+		{"type":"text","text":"Zelfde naamgeving, maar met verwijzing naar heldere uitleg ","id":"5b2a87a6b847aff8","x":1080,"y":-400,"width":220,"height":100},
+		{"type":"text","text":"# Addertjes onder het gras","id":"7bd8721ec61b7451","x":-220,"y":-880,"width":380,"height":240},
+		{"type":"text","text":"## 1. Leden kunnen geen derdebetalersbetalingen zien","id":"871e31e82ef2c9f0","x":120,"y":-200,"width":960,"height":270}
+	],
+	"edges":[
+		{"id":"a59e9b115d026192","fromNode":"05673ae8ab123491","fromSide":"bottom","toNode":"58c51e627c503348","toSide":"top"},
+		{"id":"18068ad108c7a147","fromNode":"05673ae8ab123491","fromSide":"bottom","toNode":"5b2a87a6b847aff8","toSide":"top"}
+	]
+}

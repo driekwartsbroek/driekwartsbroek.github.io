@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "80104119d6452dcb",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd183211697ed24f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "566f346eef7177ab",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "53b3aadead49f287",
+    "type": "split",
+    "children": [
+      {
+        "id": "5db36d74754d6952",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db9b2078d6ee0bcb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "45658528b118bf3b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "285bba948b0fde08",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "2111464e9b54cbb4",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b3e29c4e0289f48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54ce348ce26702e0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "67068675f73565ab",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "332ec734c331f034",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1831e4caa809b355",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "62b7c64ea09d70f2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-local-images-plus:Local Images Plus  0.15.7\r\nDownload media files": false
+    }
+  },
+  "active": "566f346eef7177ab",
+  "lastOpenFiles": [
+    "UX Bible/Other Best Practices/Chats & Messaging Basics and Best Practices.md",
+    "UX Bible/Components/Common UI Components 1.md",
+    "UX Bible/Components/Intro to UI Lists Lesson  Uxcel.md",
+    "UX Bible/Workshops/Icebreakers & Games for Design Workshops Lesson  Uxcel.md",
+    "UX Bible/Components/Forms Accessibility Lesson  Uxcel(2).md",
+    "UX Bible/Components/Filtering & Sorting Basics and Best Practices Lesson  Uxcel(1).md",
+    "UX Bible/Accessibility/Ensuring Mobile Accessibility Lesson  Uxcel.md",
+    "UX Bible/Other Best Practices/Empty States Basics and Best Practices Lesson  Uxcel.md",
+    "UX Bible/Workshops/Design Workshop Presentations Lesson  Uxcel.md",
+    "UX Bible/Workshops/Design Workshop Deliverables Lesson  Uxcel.md",
+    "UX Bible/Workshops/Dealing with Problematic People in Design Workshops Lesson  Uxcel.md",
+    "UX Bible/Research/Customer Journey Mapping Lesson  Uxcel.md",
+    "UX Bible/Workshops/Card Sorting in UX Research Lesson  Uxcel.md",
+    "UX Bible/Other Best Practices/Adding Wireframes to Agile User Stories Lesson  Uxcel.md",
+    "UX Bible/Other Best Practices/Activity Feeds Basics and Best Practices Lesson  Uxcel.md",
+    "UX Bible/Workshops/Activities for Brainstorming in Design Workshops Lesson  Uxcel.md",
+    "UX Bible/Workshops",
+    "UX Bible/Accessibility/11 Real-World Design Examples that Prioritize Accessibility Lesson  Uxcel.md",
+    "UX Bible/Accessibility",
+    "UX Bible/Psychology/10 Psychological Heuristics by Susan Weinschenk Lesson  Uxcel.md",
+    "UX Bible/Psychology",
+    "UX Bible/UX Writing/10 Microcopy Tips Lesson  Uxcel.md",
+    "Attachments/f0c04f22b83b130c997d429581196733_MD5.jpg",
+    "Attachments/1c3c4d1f924a2efe9eea92dd3587970f_MD5.jpg",
+    "Attachments/ff2d1174213b06118f1665f12458ac76_MD5.jpg",
+    "Attachments/741d9eeb0a30eaa10fc68338b3d1ca97_MD5.jpg",
+    "Attachments/03e54ed1bf299a58cdca208417ee8af6_MD5.jpg",
+    "Attachments/0c573f52d9aa775aa1855bd6ae1f1bc9_MD5.jpg",
+    "Attachments/62fc768aa89c33af5496ffa9f369fcbe_MD5.jpg",
+    "Attachments/21846db7708b5e78a1654c7516157917_MD5.jpg",
+    "Attachments/94e8ce16e9d23e6487d576905ae23e19_MD5.jpg",
+    "Attachments/9516ecc90fcc0464af8584c56e2b90c1_MD5.jpg",
+    "UX Bible/Components/Intro to UI Tooltips Lesson  Uxcel.md",
+    "UX Bible/Components/Intro to UI Loaders Lesson  Uxcel.md",
+    "UX Bible/Components/Best Practices for Designing Search Functionality Lesson  Uxcel.md",
+    "UX Bible/Components/Best Practices for Designing Tab Navigation Lesson  Uxcel.md",
+    "UX Bible/Components/Best Practices for Designing Charts Lesson  Uxcel.md",
+    "UX Bible/Components/Breadcrumbs Best Practices Lesson  Uxcel.md",
+    "UX Bible/Accessibility/Links Accessibility Lesson  Uxcel.md",
+    "UX Bible/Research",
+    "Projecten/Solidaris/Overzicht.canvas",
+    "Projecten/Solidaris",
+    "Projecten",
+    "UX Bible/Text",
+    "UX Bible/UX Writing",
+    "UX Bible/Other Best Practices",
+    "UX Bible/Methodology",
+    "Untitled 1.canvas"
+  ]
+}

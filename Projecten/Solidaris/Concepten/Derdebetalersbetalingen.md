@@ -1,0 +1,3 @@
+# Derdebetalersbetalingen
+
+*“ Toch is het belangrijk om ook deze derdebetalersbetalingen te gaan tonen aan de leden, zodat ze zien dat hun ziekenfonds voor hen een deel van de kost rechtstreeks aan de zorgverstrekker heeft betaald (en het ziekenfonds dus nog steeds relevant is!). Er is wel een belangrijk verschil met de klassieke terugbetaling: leden zien deze derdebetalersbetalingen niet op hun bankrekening, aangezien Solidaris deze tussenkomst rechtstreeks aan de zorgverstrekkers betaalt.”*
