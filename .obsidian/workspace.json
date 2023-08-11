@@ -11,11 +11,28 @@
             "id": "566f346eef7177ab",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "UX Bible/Lay-out/Design Format Properties.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a944f8afd3981dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UX Bible/Inspiration.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2111464e9b54cbb4",
@@ -82,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "UX Bible/Inspiration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "UX Bible/Inspiration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "UX Bible/Inspiration.md"
+              }
             }
           },
           {
@@ -149,8 +169,11 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.7\r\nDownload media files": false
     }
   },
-  "active": "566f346eef7177ab",
+  "active": "2a944f8afd3981dc",
   "lastOpenFiles": [
+    "UX Bible/Lay-out/Design Format Properties.md",
+    "UX Bible/Inspiration.md",
+    "UX Bible/Methodology/13 Tips for Creating User Personas Lesson  Uxcel.md",
     "UX Bible/Other Best Practices/Chats & Messaging Basics and Best Practices.md",
     "UX Bible/Components/Common UI Components 1.md",
     "UX Bible/Components/Intro to UI Lists Lesson  Uxcel.md",
@@ -187,9 +210,6 @@
     "UX Bible/Components/Intro to UI Loaders Lesson  Uxcel.md",
     "UX Bible/Components/Best Practices for Designing Search Functionality Lesson  Uxcel.md",
     "UX Bible/Components/Best Practices for Designing Tab Navigation Lesson  Uxcel.md",
-    "UX Bible/Components/Best Practices for Designing Charts Lesson  Uxcel.md",
-    "UX Bible/Components/Breadcrumbs Best Practices Lesson  Uxcel.md",
-    "UX Bible/Accessibility/Links Accessibility Lesson  Uxcel.md",
     "UX Bible/Research",
     "Projecten/Solidaris/Overzicht.canvas",
     "Projecten/Solidaris",

@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": "#ffffff",
     "recentlyUsedIcons": [
+      "TiBulb",
+      "TiMoodNerd",
       "TiAccessible",
       "RiEmotionHappyFill",
-      "TiReportSearch",
-      "FasPeopleArrowsLeftRight",
-      "TiAmpersand"
+      "TiReportSearch"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -26,11 +26,12 @@
   "UX Bible/Components": "SiHiveBlockchain",
   "UX Bible/Lay-out": "TiLayout",
   "UX Bible/Methodology": "SiDwavesystems",
-  "UX Bible/Other Best Practices": "TiBulb",
+  "UX Bible/Other Best Practices": "TiMoodNerd",
   "UX Bible/Text": "IbText",
   "UX Bible/UX Writing": "TiWriting",
   "UX Bible/Workshops": "FasPeopleArrowsLeftRight",
   "UX Bible/Research": "TiReportSearch",
   "UX Bible/Psychology": "RiEmotionHappyFill",
-  "UX Bible/Accessibility": "TiAccessible"
+  "UX Bible/Accessibility": "TiAccessible",
+  "UX Bible/Inspiration.md": "TiBulb"
 }
