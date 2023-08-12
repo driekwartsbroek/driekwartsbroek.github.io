@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UX Bible/Components/10. Filtering Best Practices.md",
-                "mode": "preview",
+                "file": "UX Bible/Inspiration & Tools.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UX Bible/Components/10. Filtering Best Practices.md",
+                "file": "UX Bible/Inspiration & Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UX Bible/Components/10. Filtering Best Practices.md",
+                "file": "UX Bible/Inspiration & Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UX Bible/Components/10. Filtering Best Practices.md"
+                "file": "UX Bible/Inspiration & Tools.md"
               }
             }
           },
@@ -171,10 +171,11 @@
   },
   "active": "2a944f8afd3981dc",
   "lastOpenFiles": [
+    "UX Bible/Components/10. Filtering Best Practices.md",
     "UX Bible/Components/7. Tags.md",
     "UX Bible/Workshops/How we do design critiques at Figma  Figma Blog.md",
     "UX Bible/Other Best Practices/Login & Signup Flows Basics and Best Practices Lesson  Uxcel.md",
-    "UX Bible/Inspiration.md",
+    "UX Bible/Inspiration & Tools.md",
     "UX Bible/Lay-out/Design Format Properties.md",
     "UX Bible/Methodology/13 Tips for Creating User Personas Lesson  Uxcel.md",
     "UX Bible/Other Best Practices/Chats & Messaging Basics and Best Practices.md",
@@ -209,7 +210,6 @@
     "Attachments/21846db7708b5e78a1654c7516157917_MD5.jpg",
     "Attachments/94e8ce16e9d23e6487d576905ae23e19_MD5.jpg",
     "Attachments/9516ecc90fcc0464af8584c56e2b90c1_MD5.jpg",
-    "UX Bible/Components/Intro to UI Tooltips Lesson  Uxcel.md",
     "UX Bible/Research",
     "Projecten/Solidaris/Overzicht.canvas",
     "Projecten/Solidaris",
