@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UX Bible/Other Best Practices/Login & Signup Flows Basics and Best Practices Lesson  Uxcel.md",
+                "file": "UX Bible/Components/7. Tags.md",
                 "mode": "preview",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UX Bible/Other Best Practices/Login & Signup Flows Basics and Best Practices Lesson  Uxcel.md",
+                "file": "UX Bible/Components/7. Tags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UX Bible/Other Best Practices/Login & Signup Flows Basics and Best Practices Lesson  Uxcel.md",
+                "file": "UX Bible/Components/7. Tags.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UX Bible/Other Best Practices/Login & Signup Flows Basics and Best Practices Lesson  Uxcel.md"
+                "file": "UX Bible/Components/7. Tags.md"
               }
             }
           },
@@ -171,6 +171,8 @@
   },
   "active": "2a944f8afd3981dc",
   "lastOpenFiles": [
+    "UX Bible/Workshops/How we do design critiques at Figma  Figma Blog.md",
+    "UX Bible/Other Best Practices/Login & Signup Flows Basics and Best Practices Lesson  Uxcel.md",
     "UX Bible/Inspiration.md",
     "UX Bible/Lay-out/Design Format Properties.md",
     "UX Bible/Methodology/13 Tips for Creating User Personas Lesson  Uxcel.md",
@@ -208,8 +210,6 @@
     "Attachments/9516ecc90fcc0464af8584c56e2b90c1_MD5.jpg",
     "UX Bible/Components/Intro to UI Tooltips Lesson  Uxcel.md",
     "UX Bible/Components/Intro to UI Loaders Lesson  Uxcel.md",
-    "UX Bible/Components/Best Practices for Designing Search Functionality Lesson  Uxcel.md",
-    "UX Bible/Components/Best Practices for Designing Tab Navigation Lesson  Uxcel.md",
     "UX Bible/Research",
     "Projecten/Solidaris/Overzicht.canvas",
     "Projecten/Solidaris",

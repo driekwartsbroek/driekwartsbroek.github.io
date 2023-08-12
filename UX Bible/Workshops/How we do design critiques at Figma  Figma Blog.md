@@ -1,3 +1,4 @@
+# How we do design critiques at Figma  Figma Blog
 Learn six unique methods for design critique used by the Figma design team, along with some tips and best practices for running them effectively.
 
 Design critiques are a key part of just about every design culture, and one of the few consistent rituals design teams share. Done well, they can leverage the unique superpowers of your team members to raise the collective quality of each individual’s work. Critiques should leave you feeling inspired, challenged, and empowered. However, in practice, it doesn’t always pan out that way. A poorly managed critique can cause your team to feel discouraged, overwhelmed, or completely lost. Over the past year, we’ve made a lot of changes to the way we do critiques at Figma to try and avoid those pitfalls.
