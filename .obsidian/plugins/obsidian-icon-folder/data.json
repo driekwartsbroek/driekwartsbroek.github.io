@@ -4,7 +4,7 @@
     "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
     "fontSize": 16,
     "emojiStyle": "none",
-    "iconColor": "#ffffff",
+    "iconColor": "#000000",
     "recentlyUsedIcons": [
       "TiBulb",
       "TiMoodNerd",

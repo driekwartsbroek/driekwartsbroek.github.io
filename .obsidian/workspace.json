@@ -23,11 +23,9 @@
             "id": "2a944f8afd3981dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "UX Bible/Methodology/13 Tips for Creating User Personas Lesson  Uxcel.md",
-                "mode": "source",
-                "source": false
+                "file": "UX Bible/Untitled Kanban.md"
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UX Bible/Methodology/13 Tips for Creating User Personas Lesson  Uxcel.md",
+                "file": "UX Bible/Untitled Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UX Bible/Methodology/13 Tips for Creating User Personas Lesson  Uxcel.md",
+                "file": "UX Bible/Untitled Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UX Bible/Methodology/13 Tips for Creating User Personas Lesson  Uxcel.md"
+                "file": "UX Bible/Untitled Kanban.md"
               }
             }
           },
@@ -171,35 +169,35 @@
   },
   "active": "2a944f8afd3981dc",
   "lastOpenFiles": [
+    "UX Bible/Methodology/Atomic Design by Brad Frost.md",
+    "UX Bible/Untitled Kanban.md",
+    "UX Bible/Methodology/Design Processes & Research Methods.md",
+    "UX Bible/Colors/Color Properties.md",
+    "UX Bible/Colors/Color Combination Preconceptions.md",
+    "UX Bible/Methodology/Pre-ideation and Fast Idea Generation Techniques Lesson  Uxcel.md",
+    "UX Bible/Colors/Traditional Color Meanings.md",
+    "UX Bible/Inspiration & Tools.md",
+    "Untitled.md",
+    "UX Bible/Methodology/13 Tips for Creating User Personas Lesson  Uxcel.md",
+    "Untitled 1.md",
+    "Untitled 3.md",
+    "Untitled 2.md",
     "UX Bible/Workshops/Card Sorting in UX Research Lesson  Uxcel.md",
     "UX Bible/Workshops/Activities for Brainstorming in Design Workshops Lesson  Uxcel.md",
     "UX Bible/Workshops/Design Workshop Deliverables Lesson  Uxcel.md",
-    "UX Bible/Inspiration & Tools.md",
     "UX Bible/Components/10. Filtering Best Practices.md",
     "UX Bible/Components/7. Tags.md",
     "UX Bible/Workshops/How we do design critiques at Figma  Figma Blog.md",
     "UX Bible/Other Best Practices/Login & Signup Flows Basics and Best Practices Lesson  Uxcel.md",
     "UX Bible/Lay-out/Design Format Properties.md",
-    "UX Bible/Methodology/13 Tips for Creating User Personas Lesson  Uxcel.md",
     "UX Bible/Other Best Practices/Chats & Messaging Basics and Best Practices.md",
     "UX Bible/Components/Common UI Components 1.md",
     "UX Bible/Components/Intro to UI Lists Lesson  Uxcel.md",
     "UX Bible/Workshops/Icebreakers & Games for Design Workshops Lesson  Uxcel.md",
     "UX Bible/Components/Forms Accessibility Lesson  Uxcel(2).md",
-    "UX Bible/Components/Filtering & Sorting Basics and Best Practices Lesson  Uxcel(1).md",
-    "UX Bible/Accessibility/Ensuring Mobile Accessibility Lesson  Uxcel.md",
-    "UX Bible/Other Best Practices/Empty States Basics and Best Practices Lesson  Uxcel.md",
-    "UX Bible/Workshops/Design Workshop Presentations Lesson  Uxcel.md",
-    "UX Bible/Workshops/Dealing with Problematic People in Design Workshops Lesson  Uxcel.md",
-    "UX Bible/Research/Customer Journey Mapping Lesson  Uxcel.md",
-    "UX Bible/Other Best Practices/Adding Wireframes to Agile User Stories Lesson  Uxcel.md",
-    "UX Bible/Other Best Practices/Activity Feeds Basics and Best Practices Lesson  Uxcel.md",
     "UX Bible/Workshops",
-    "UX Bible/Accessibility/11 Real-World Design Examples that Prioritize Accessibility Lesson  Uxcel.md",
     "UX Bible/Accessibility",
-    "UX Bible/Psychology/10 Psychological Heuristics by Susan Weinschenk Lesson  Uxcel.md",
     "UX Bible/Psychology",
-    "UX Bible/UX Writing/10 Microcopy Tips Lesson  Uxcel.md",
     "Attachments/f0c04f22b83b130c997d429581196733_MD5.jpg",
     "Attachments/1c3c4d1f924a2efe9eea92dd3587970f_MD5.jpg",
     "Attachments/ff2d1174213b06118f1665f12458ac76_MD5.jpg",
