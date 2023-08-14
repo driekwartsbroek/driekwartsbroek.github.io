@@ -1,4 +1,4 @@
-# 10 Psychological Heuristics by Susan Weinschenk Lesson  Uxcel
+# 10 Psychological Heuristics by Susan Weinschenk
 ## People don't want to do more than they have to
 
 ![[Attachments/2b00d0d7db0a362f60b426ed07287270_MD5.jpg]]
