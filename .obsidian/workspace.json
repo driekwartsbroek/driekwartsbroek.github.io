@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UX Bible/UX Bible_Index.md",
+                "file": "UX Bible/UX Bible.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UX Bible/UX Bible_Index.md",
+                "file": "UX Bible/UX Bible.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UX Bible/UX Bible_Index.md",
+                "file": "UX Bible/UX Bible.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UX Bible/UX Bible_Index.md"
+                "file": "UX Bible/UX Bible.md"
               }
             }
           },
@@ -156,36 +156,36 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.7\r\nDownload media files": false
     }
   },
-  "active": "fcc919aeafc7b522",
+  "active": "db9b2078d6ee0bcb",
   "lastOpenFiles": [
-    "UX Bible/Components/Components_Index.md",
-    "UX Bible/UX Bible_Index.md",
-    "UX Bible/Accessibility/Accessibility_Index.md",
-    "UX Bible/Colors/Colors_Index.md",
-    "UX Bible/Accessibility/Links Accessibility Lesson  Uxcel.md",
-    "UX Bible/Accessibility/11 Real-World Design Examples that Prioritize Accessibility Lesson  Uxcel.md",
-    "Readme.md",
-    "UX Bible/Accessibility/Accessibility_Glossary.md",
-    "UX Bible/UX Bible.md",
     "UX Bible/Inspiration & Tools.md",
-    "UX Bible/Text/Characters.md",
-    "UX Bible/Research/Customer Journey Mapping Lesson  Uxcel.md",
+    "UX Bible/UX Bible.md",
+    "UX Bible/Workshops/Workshops.md",
+    "UX Bible/UX Writing/UX Writing.md",
+    "UX Bible/Text/Text.md",
     "UX Bible/Research/Research.md",
-    "UX Bible/Psychology/_Index_of_Psychology.md",
+    "UX Bible/Psychology/Psychology.md",
+    "UX Bible/Other Best Practices/Other Best Practices.md",
     "UX Bible/Methodology/Methodology.md",
     "UX Bible/Lay-out/Lay-out.md",
     "UX Bible/Components/Components.md",
     "UX Bible/Colors/Colors.md",
     "UX Bible/Accessibility/Accessibility.md",
-    "Projecten/Solidaris/Solidaris.md",
-    "Projecten/Solidaris/Concepten/Concepten.md",
     "Projecten/Projecten.md",
-    "Dashboard.md",
-    "Attachments/Attachments.md",
-    "index.html",
-    "UX Bible/Lay-out/Design Format Properties.md",
-    "Projecten/Solidaris/Brief/Brief.md",
+    "Projecten/Solidaris/Solidaris.md",
     "Projecten/Solidaris/Overzicht.canvas",
+    "Projecten/Solidaris/Concepten/Concepten.md",
+    "Projecten/Solidaris/Concepten/Betalingen/Betalingen.md",
+    "Projecten/Solidaris/Concepten/Betalingen/Verzender.md",
+    "Projecten/Solidaris/Concepten/Betalingen/Ontvanger.md",
+    "Projecten/Solidaris/Brief/Brief.md",
+    "Attachments/Attachments.md",
+    "Readme.md",
+    "UX Bible/Components/Components_Index.md",
+    "UX Bible/UX Bible_Index.md",
+    "UX Bible/Accessibility/Accessibility_Index.md",
+    "UX Bible/Colors/Colors_Index.md",
+    "index.html",
     "New Text Document.txt",
     "UX Bible/Workshops",
     "UX Bible/Accessibility",
