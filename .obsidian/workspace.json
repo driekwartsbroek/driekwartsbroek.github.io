@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "566f346eef7177ab",
+            "id": "5e47c2b61525c283",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UX Bible/Workshops/How we do design critiques at Figma  Figma Blog.md",
+                "file": "UX Bible/Components/Components.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UX Bible/Workshops/How we do design critiques at Figma  Figma Blog.md",
+                "file": "UX Bible/Components/Components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UX Bible/Workshops/How we do design critiques at Figma  Figma Blog.md",
+                "file": "UX Bible/Components/Components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UX Bible/Workshops/How we do design critiques at Figma  Figma Blog.md"
+                "file": "UX Bible/Components/Components.md"
               }
             }
           },
@@ -156,35 +156,37 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.7\r\nDownload media files": false
     }
   },
-  "active": "db9b2078d6ee0bcb",
+  "active": "5e47c2b61525c283",
   "lastOpenFiles": [
+    "UX Bible/Lay-out/Lay-out.md",
+    "UX Bible/Lay-out/Design Format Properties.md",
+    "UX Bible/UX Bible.md",
+    "Dashboard.md",
+    "Attachments/Attachments.md",
+    "Projecten/Projecten.md",
+    "Projecten/Solidaris/Solidaris.md",
+    "Projecten/Solidaris/Brief/Brief.md",
+    "Projecten/Solidaris/Concepten/Betalingen/Betalingen.md",
+    "Projecten/Solidaris/Concepten/Concepten.md",
+    "Projecten/Solidaris/Concepten/Gezinsleden.md",
+    "Projecten/Solidaris/Overzicht.canvas",
+    "Projecten/Solidaris/Concepten/_Index_of_Concepten.md",
+    "UX Bible/Colors/Colors.md",
+    "UX Bible/Accessibility/Accessibility.md",
+    "UX Bible/Research/Research.md",
+    "UX Bible/Text/Text.md",
+    "UX Bible/UX Writing/UX Writing.md",
+    "UX Bible/Workshops/Workshops.md",
+    "UX Bible/Inspiration & Tools.md",
+    "Readme.md",
+    "UX Bible/Methodology/Methodology.md",
+    "UX Bible/Components/Components.md",
+    "UX Bible/Lay-out/_Index_of_Lay-out.md",
+    "UX Bible/Accessibility/_Index_of_Accessibility.md",
+    "Projecten/_Index_of_Projecten.md",
+    "Projecten/Solidaris/_Index_of_Solidaris.md",
     "index.html",
     "New Text Document.txt",
-    "UX Bible/Workshops/Icebreakers & Games for Design Workshops Lesson  Uxcel.md",
-    "UX Bible/Other Best Practices/Login & Signup Flows Basics and Best Practices Lesson  Uxcel.md",
-    "UX Bible/Lay-out/Design Format Properties.md",
-    "UX Bible/Colors/Untitled Kanban.md",
-    "UX Bible/Psychology/10 Psychological Heuristics by Susan Weinschenk.md",
-    "UX Bible/Methodology/Atomic Design by Brad Frost.md",
-    "UX Bible/Untitled Kanban.md",
-    "UX Bible/Methodology/Design Processes & Research Methods.md",
-    "UX Bible/Colors/Color Properties.md",
-    "UX Bible/Colors/Color Combination Preconceptions.md",
-    "UX Bible/Methodology/Pre-ideation and Fast Idea Generation Techniques Lesson  Uxcel.md",
-    "UX Bible/Colors/Traditional Color Meanings.md",
-    "UX Bible/Inspiration & Tools.md",
-    "Untitled.md",
-    "UX Bible/Methodology/13 Tips for Creating User Personas Lesson  Uxcel.md",
-    "Untitled 1.md",
-    "Untitled 3.md",
-    "Untitled 2.md",
-    "UX Bible/Workshops/Card Sorting in UX Research Lesson  Uxcel.md",
-    "UX Bible/Workshops/Activities for Brainstorming in Design Workshops Lesson  Uxcel.md",
-    "UX Bible/Workshops/Design Workshop Deliverables Lesson  Uxcel.md",
-    "UX Bible/Components/10. Filtering Best Practices.md",
-    "UX Bible/Components/7. Tags.md",
-    "UX Bible/Workshops/How we do design critiques at Figma  Figma Blog.md",
-    "UX Bible/Other Best Practices/Chats & Messaging Basics and Best Practices.md",
     "UX Bible/Workshops",
     "UX Bible/Accessibility",
     "UX Bible/Psychology",
@@ -199,12 +201,10 @@
     "Attachments/94e8ce16e9d23e6487d576905ae23e19_MD5.jpg",
     "Attachments/9516ecc90fcc0464af8584c56e2b90c1_MD5.jpg",
     "UX Bible/Research",
-    "Projecten/Solidaris/Overzicht.canvas",
     "Projecten/Solidaris",
     "Projecten",
     "UX Bible/Text",
     "UX Bible/UX Writing",
-    "UX Bible/Other Best Practices",
     "Untitled 1.canvas"
   ]
 }
