@@ -1,3 +1,2 @@
 # Readme
-
-# UX Bible
+[[UX Bible]]

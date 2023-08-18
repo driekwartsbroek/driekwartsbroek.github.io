@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "UX Bible/UX Bible.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -156,10 +156,17 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.7\r\nDownload media files": false
     }
   },
-  "active": "db9b2078d6ee0bcb",
+  "active": "fcc919aeafc7b522",
   "lastOpenFiles": [
-    "UX Bible/Inspiration & Tools.md",
+    "Readme.md",
     "UX Bible/UX Bible.md",
+    "Projecten/Projecten.md",
+    "UX Bible/Accessibility/Accessibility.md",
+    "Projecten/Solidaris/Solidaris.md",
+    "Projecten/Solidaris/Brief/Brief.md",
+    "Projecten/Solidaris/Concepten/Concepten.md",
+    "Attachments/Attachments.md",
+    "UX Bible/Inspiration & Tools.md",
     "UX Bible/Workshops/Workshops.md",
     "UX Bible/UX Writing/UX Writing.md",
     "UX Bible/Text/Text.md",
@@ -170,17 +177,10 @@
     "UX Bible/Lay-out/Lay-out.md",
     "UX Bible/Components/Components.md",
     "UX Bible/Colors/Colors.md",
-    "UX Bible/Accessibility/Accessibility.md",
-    "Projecten/Projecten.md",
-    "Projecten/Solidaris/Solidaris.md",
     "Projecten/Solidaris/Overzicht.canvas",
-    "Projecten/Solidaris/Concepten/Concepten.md",
     "Projecten/Solidaris/Concepten/Betalingen/Betalingen.md",
     "Projecten/Solidaris/Concepten/Betalingen/Verzender.md",
     "Projecten/Solidaris/Concepten/Betalingen/Ontvanger.md",
-    "Projecten/Solidaris/Brief/Brief.md",
-    "Attachments/Attachments.md",
-    "Readme.md",
     "UX Bible/Components/Components_Index.md",
     "UX Bible/UX Bible_Index.md",
     "UX Bible/Accessibility/Accessibility_Index.md",
