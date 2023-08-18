@@ -1,5 +1,3 @@
 # Readme
 
-Test
-Test
-Test
+# UX Bible

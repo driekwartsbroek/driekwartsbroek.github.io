@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5e47c2b61525c283",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UX Bible/UX Bible.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fcc919aeafc7b522",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
+                "file": "UX Bible/UX Bible_Index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
+                "file": "UX Bible/UX Bible_Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md",
+                "file": "UX Bible/UX Bible_Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme.md"
+                "file": "UX Bible/UX Bible_Index.md"
               }
             }
           },
@@ -171,8 +158,15 @@
   },
   "active": "fcc919aeafc7b522",
   "lastOpenFiles": [
-    "UX Bible/UX Bible.md",
+    "UX Bible/Components/Components_Index.md",
+    "UX Bible/UX Bible_Index.md",
+    "UX Bible/Accessibility/Accessibility_Index.md",
+    "UX Bible/Colors/Colors_Index.md",
+    "UX Bible/Accessibility/Links Accessibility Lesson  Uxcel.md",
+    "UX Bible/Accessibility/11 Real-World Design Examples that Prioritize Accessibility Lesson  Uxcel.md",
     "Readme.md",
+    "UX Bible/Accessibility/Accessibility_Glossary.md",
+    "UX Bible/UX Bible.md",
     "UX Bible/Inspiration & Tools.md",
     "UX Bible/Text/Characters.md",
     "UX Bible/Research/Customer Journey Mapping Lesson  Uxcel.md",
@@ -189,16 +183,9 @@
     "Dashboard.md",
     "Attachments/Attachments.md",
     "index.html",
-    "Readme.md",
     "UX Bible/Lay-out/Design Format Properties.md",
     "Projecten/Solidaris/Brief/Brief.md",
-    "Projecten/Solidaris/Concepten/Betalingen/Betalingen.md",
-    "Projecten/Solidaris/Concepten/Gezinsleden.md",
     "Projecten/Solidaris/Overzicht.canvas",
-    "Projecten/Solidaris/Concepten/_Index_of_Concepten.md",
-    "UX Bible/Text/Text.md",
-    "UX Bible/UX Writing/UX Writing.md",
-    "UX Bible/Workshops/Workshops.md",
     "New Text Document.txt",
     "UX Bible/Workshops",
     "UX Bible/Accessibility",
