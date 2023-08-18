@@ -3,8 +3,5 @@
   "cssTheme": "Ultra Lobster",
   "theme": "moonstone",
   "interfaceFontFamily": "SF Pro Display",
-  "textFontFamily": "SF Pro Text",
-  "enabledCssSnippets": [
-    "dashboard"
-  ]
+  "textFontFamily": "SF Pro Text"
 }
