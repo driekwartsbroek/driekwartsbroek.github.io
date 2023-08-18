@@ -151,11 +151,15 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-local-images-plus:Local Images Plus  0.15.7\r\nDownload media files": false
     }
   },
-  "active": "566f346eef7177ab",
+  "active": "db9b2078d6ee0bcb",
   "lastOpenFiles": [
+    "index.html",
+    "New Text Document.txt",
     "UX Bible/Workshops/Icebreakers & Games for Design Workshops Lesson  Uxcel.md",
     "UX Bible/Other Best Practices/Login & Signup Flows Basics and Best Practices Lesson  Uxcel.md",
     "UX Bible/Lay-out/Design Format Properties.md",
@@ -181,7 +185,6 @@
     "UX Bible/Components/7. Tags.md",
     "UX Bible/Workshops/How we do design critiques at Figma  Figma Blog.md",
     "UX Bible/Other Best Practices/Chats & Messaging Basics and Best Practices.md",
-    "UX Bible/Components/Common UI Components 1.md",
     "UX Bible/Workshops",
     "UX Bible/Accessibility",
     "UX Bible/Psychology",
@@ -202,7 +205,6 @@
     "UX Bible/Text",
     "UX Bible/UX Writing",
     "UX Bible/Other Best Practices",
-    "UX Bible/Methodology",
     "Untitled 1.canvas"
   ]
 }
