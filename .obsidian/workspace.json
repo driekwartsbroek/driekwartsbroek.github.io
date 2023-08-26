@@ -11,10 +11,11 @@
             "id": "fcc919aeafc7b522",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": true
+                "file": "UX Bible/Other Best Practices/Repetition in Design Composition.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -47,10 +48,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "open composition",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -64,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -84,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "UX Bible/Other Best Practices/Repetition in Design Composition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "UX Bible/Other Best Practices/Repetition in Design Composition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "UX Bible/Other Best Practices/Repetition in Design Composition.md"
+              }
             }
           },
           {
@@ -151,35 +157,35 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.7\r\nDownload media files": false
     }
   },
-  "active": "fcc919aeafc7b522",
+  "active": "45658528b118bf3b",
   "lastOpenFiles": [
+    "UX Bible/Components/4. Inputs Intro.md",
+    "UX Bible/Other Best Practices/Landing Pages.md",
+    "UX Bible/Other Best Practices/Checkout.md",
+    "UX Bible/Other Best Practices/Contact support Lesson  Uxcel.md",
+    "UX Bible/Other Best Practices/Context of Mobile Use Lesson  Uxcel.md",
+    "UX Bible/Other Best Practices/Email Design Basics and Best Practices.md",
+    "UX Bible/Methodology/Methodology.md",
+    "UX Bible/Lay-out/Design Format Properties.md",
+    "UX Bible/Lay-out/Lay-out.md",
+    "UX Bible/Components/17. Footers.md",
+    "UX Bible/Accessibility/11 Real-World Design Examples that Prioritize Accessibility Lesson  Uxcel.md",
+    "UX Bible/Components/8.1 Forms Best Practices.md",
+    "UX Bible/Components/8. Forms Intro.md",
+    "UX Bible/Components/5. Cards Intro.md",
     "UX Bible/Workshops/Workshops.md",
     "UX Bible/UX Writing/UX Writing.md",
     "UX Bible/Text/Text.md",
     "UX Bible/Research/Research.md",
     "UX Bible/Psychology/Psychology.md",
     "UX Bible/Other Best Practices/Other Best Practices.md",
-    "UX Bible/Methodology/Methodology.md",
-    "UX Bible/Lay-out/Lay-out.md",
     "UX Bible/Components/Components.md",
     "UX Bible/Colors/Colors.md",
     "UX Bible/Accessibility/Accessibility.md",
     "Projecten/Solidaris/Solidaris.md",
     "Projecten/Solidaris/Concepten/Concepten.md",
     "Projecten/Projecten.md",
-    "Attachments/Attachments.md",
-    "conflict-files-obsidian-git.md",
-    "UX Bible/UX Bible_Index.md",
-    "UX Bible/Components/Components_Index.md",
-    "UX Bible/Colors/Colors_Index.md",
-    "UX Bible/Accessibility/Accessibility_Index.md",
-    "Readme.md",
-    "UX Bible/UX Bible.md",
-    "Projecten/Solidaris/Brief/Brief.md",
-    "UX Bible/Inspiration & Tools.md",
     "Projecten/Solidaris/Overzicht.canvas",
-    "Projecten/Solidaris/Concepten/Betalingen/Betalingen.md",
-    "Projecten/Solidaris/Concepten/Betalingen/Verzender.md",
     "index.html",
     "New Text Document.txt",
     "UX Bible/Workshops",
