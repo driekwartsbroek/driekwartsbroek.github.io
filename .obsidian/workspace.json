@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1d57fa7fd2d422c9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -157,7 +168,7 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.7\r\nDownload media files": false
     }
   },
-  "active": "45658528b118bf3b",
+  "active": "1d57fa7fd2d422c9",
   "lastOpenFiles": [
     "UX Bible/Components/4. Inputs Intro.md",
     "UX Bible/Other Best Practices/Landing Pages.md",
