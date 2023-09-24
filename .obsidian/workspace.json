@@ -28,9 +28,19 @@
                 "currentVersion": "1.4.5"
               }
             }
+          },
+          {
+            "id": "d77f3bc733c53fa4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -148,6 +158,16 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "e39dce6fd1470783",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
         "currentTab": 4
@@ -168,7 +188,7 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.7\r\nDownload media files": false
     }
   },
-  "active": "1d57fa7fd2d422c9",
+  "active": "d77f3bc733c53fa4",
   "lastOpenFiles": [
     "UX Bible/Components/4. Inputs Intro.md",
     "UX Bible/Other Best Practices/Landing Pages.md",
