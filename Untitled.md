@@ -27,4 +27,8 @@ DMW → mag overgenomen worden. Datakaartje mag ik wel zelf invullen.
 
 Visuele hierarchie aangeven met achtergrondkleuren. 
 
-Con
+VIsuele hierarchie mag zeker aangegeven worden met extra hierarchie. 
+
+Notities op Portal is nakijken. Kaartje omdraaien voor discrete notities. 
+
+Ideeen over betere plaats van notities
