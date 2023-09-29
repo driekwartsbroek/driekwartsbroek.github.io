@@ -32,3 +32,6 @@ VIsuele hierarchie mag zeker aangegeven worden met extra hierarchie.
 Notities op Portal is nakijken. Kaartje omdraaien voor discrete notities. 
 
 Ideeen over betere plaats van notities
+
+Sidebar met notities?
+
