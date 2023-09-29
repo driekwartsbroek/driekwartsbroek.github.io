@@ -23,9 +23,11 @@
             "id": "1d57fa7fd2d422c9",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.5"
+                "file": "UX Bible/Components/2. Menus Intro.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -59,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "open composition",
+                "query": "hotkey",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -97,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "UX Bible/Components/2. Menus Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "UX Bible/Components/2. Menus Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "UX Bible/Components/2. Menus Intro.md"
+              }
             }
           },
           {
