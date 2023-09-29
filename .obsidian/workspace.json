@@ -28,19 +28,9 @@
                 "currentVersion": "1.4.5"
               }
             }
-          },
-          {
-            "id": "d77f3bc733c53fa4",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.13"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2111464e9b54cbb4",
@@ -108,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UX Bible/Other Best Practices/Repetition in Design Composition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UX Bible/Other Best Practices/Repetition in Design Composition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "UX Bible/Other Best Practices/Repetition in Design Composition.md"
-              }
+              "state": {}
             }
           },
           {
@@ -189,8 +174,9 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.7\r\nDownload media files": false
     }
   },
-  "active": "d77f3bc733c53fa4",
+  "active": "1d57fa7fd2d422c9",
   "lastOpenFiles": [
+    "UX Bible/Other Best Practices/Repetition in Design Composition.md",
     "UX Bible/Components/4. Inputs Intro.md",
     "UX Bible/Other Best Practices/Landing Pages.md",
     "UX Bible/Other Best Practices/Checkout.md",
@@ -216,7 +202,6 @@
     "UX Bible/Accessibility/Accessibility.md",
     "Projecten/Solidaris/Solidaris.md",
     "Projecten/Solidaris/Concepten/Concepten.md",
-    "Projecten/Projecten.md",
     "Projecten/Solidaris/Overzicht.canvas",
     "index.html",
     "New Text Document.txt",
