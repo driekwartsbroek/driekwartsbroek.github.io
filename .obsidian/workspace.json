@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b36873950778d22e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -191,8 +203,9 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.7\r\nDownload media files": false
     }
   },
-  "active": "cd813d8975b6f0fd",
+  "active": "b36873950778d22e",
   "lastOpenFiles": [
+    "Readme.md",
     "UX Bible/Components/2. Menus Intro.md",
     "Untitled.md",
     "UX Bible/Other Best Practices/Repetition in Design Composition.md",
@@ -218,7 +231,6 @@
     "UX Bible/Other Best Practices/Other Best Practices.md",
     "UX Bible/Components/Components.md",
     "UX Bible/Colors/Colors.md",
-    "UX Bible/Accessibility/Accessibility.md",
     "Projecten/Solidaris/Overzicht.canvas",
     "index.html",
     "New Text Document.txt",
