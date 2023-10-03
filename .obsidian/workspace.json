@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "891b4fe111695eb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kennismaking Zhi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Kennismaking Zhi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Kennismaking Zhi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Kennismaking Zhi.md"
               }
             }
           },
@@ -203,11 +215,12 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.7\r\nDownload media files": false
     }
   },
-  "active": "b36873950778d22e",
+  "active": "891b4fe111695eb9",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Kennismaking Zhi.md",
     "Readme.md",
     "UX Bible/Components/2. Menus Intro.md",
-    "Untitled.md",
     "UX Bible/Other Best Practices/Repetition in Design Composition.md",
     "UX Bible/Components/4. Inputs Intro.md",
     "UX Bible/Other Best Practices/Landing Pages.md",
@@ -230,7 +243,6 @@
     "UX Bible/Psychology/Psychology.md",
     "UX Bible/Other Best Practices/Other Best Practices.md",
     "UX Bible/Components/Components.md",
-    "UX Bible/Colors/Colors.md",
     "Projecten/Solidaris/Overzicht.canvas",
     "index.html",
     "New Text Document.txt",
