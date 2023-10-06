@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algemene notities.md",
+                "file": "UX Bible/Colors/Using Color in Branding.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,8 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2111464e9b54cbb4",
@@ -147,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algemene notities.md",
+                "file": "UX Bible/Colors/Using Color in Branding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algemene notities.md",
+                "file": "UX Bible/Colors/Using Color in Branding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algemene notities.md"
+                "file": "UX Bible/Colors/Using Color in Branding.md"
               }
             }
           },
@@ -230,8 +229,18 @@
   },
   "active": "c7c48382d870d387",
   "lastOpenFiles": [
-    "UX Bible/Other Best Practices/Chats & Messaging Basics and Best Practices.md",
+    "UX Bible/Colors/Untitled Kanban.md",
+    "UX Bible/Colors/Traditional Color Meanings.md",
+    "UX Bible/Colors/Intro to Color Theory Lesson.md",
+    "UX Bible/Colors/How Colors Impact Our Mood.md",
+    "UX Bible/Colors/Cultural Differences in Color Perception & Meaning.md",
+    "UX Bible/Colors/Colors.md",
+    "UX Bible/Colors/Color Combination Preconceptions.md",
+    "UX Bible/Colors/Color Scheme Personalities.md",
+    "UX Bible/Colors/Color Properties.md",
+    "UX Bible/Lay-out/Lay-out.md",
     "Algemene notities.md",
+    "UX Bible/Other Best Practices/Chats & Messaging Basics and Best Practices.md",
     "Kennismaking Zhi.md",
     "Untitled.md",
     "Readme.md",
@@ -245,17 +254,7 @@
     "UX Bible/Other Best Practices/Email Design Basics and Best Practices.md",
     "UX Bible/Methodology/Methodology.md",
     "UX Bible/Lay-out/Design Format Properties.md",
-    "UX Bible/Lay-out/Lay-out.md",
     "UX Bible/Components/17. Footers.md",
-    "UX Bible/Accessibility/11 Real-World Design Examples that Prioritize Accessibility Lesson  Uxcel.md",
-    "UX Bible/Components/8.1 Forms Best Practices.md",
-    "UX Bible/Components/8. Forms Intro.md",
-    "UX Bible/Components/5. Cards Intro.md",
-    "UX Bible/Workshops/Workshops.md",
-    "UX Bible/UX Writing/UX Writing.md",
-    "UX Bible/Text/Text.md",
-    "UX Bible/Research/Research.md",
-    "UX Bible/Psychology/Psychology.md",
     "Projecten/Solidaris/Overzicht.canvas",
     "index.html",
     "New Text Document.txt",
