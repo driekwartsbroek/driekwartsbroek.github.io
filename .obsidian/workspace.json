@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UX Bible/Colors/Using Color in Branding.md",
+                "file": "UX Bible/Components/1. Buttons Intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UX Bible/Colors/Using Color in Branding.md",
+                "file": "UX Bible/Components/1. Buttons Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UX Bible/Colors/Using Color in Branding.md",
+                "file": "UX Bible/Components/1. Buttons Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UX Bible/Colors/Using Color in Branding.md"
+                "file": "UX Bible/Components/1. Buttons Intro.md"
               }
             }
           },
@@ -229,6 +229,10 @@
   },
   "active": "c7c48382d870d387",
   "lastOpenFiles": [
+    "UX Bible/Components/1.2 Button Best Practices.md",
+    "UX Bible/Components/1. Buttons Intro.md",
+    "UX Bible/Components/Components.md",
+    "UX Bible/Colors/Using Color in Branding.md",
     "UX Bible/Colors/Untitled Kanban.md",
     "UX Bible/Colors/Traditional Color Meanings.md",
     "UX Bible/Colors/Intro to Color Theory Lesson.md",
@@ -251,10 +255,6 @@
     "UX Bible/Other Best Practices/Checkout.md",
     "UX Bible/Other Best Practices/Contact support Lesson  Uxcel.md",
     "UX Bible/Other Best Practices/Context of Mobile Use Lesson  Uxcel.md",
-    "UX Bible/Other Best Practices/Email Design Basics and Best Practices.md",
-    "UX Bible/Methodology/Methodology.md",
-    "UX Bible/Lay-out/Design Format Properties.md",
-    "UX Bible/Components/17. Footers.md",
     "Projecten/Solidaris/Overzicht.canvas",
     "index.html",
     "New Text Document.txt",
