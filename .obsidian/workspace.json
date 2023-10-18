@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UX Bible/Components/1. Buttons Intro.md",
+                "file": "UX Bible/Components/8.1 Forms Best Practices.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UX Bible/Components/1. Buttons Intro.md",
+                "file": "UX Bible/Components/8.1 Forms Best Practices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UX Bible/Components/1. Buttons Intro.md",
+                "file": "UX Bible/Components/8.1 Forms Best Practices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UX Bible/Components/1. Buttons Intro.md"
+                "file": "UX Bible/Components/8.1 Forms Best Practices.md"
               }
             }
           },
