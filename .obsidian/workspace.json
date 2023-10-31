@@ -78,9 +78,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2ce74e5600df8bc5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -227,7 +237,7 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.7\r\nDownload media files": false
     }
   },
-  "active": "c7c48382d870d387",
+  "active": "2ce74e5600df8bc5",
   "lastOpenFiles": [
     "UX Bible/Components/1.2 Button Best Practices.md",
     "UX Bible/Components/1. Buttons Intro.md",
