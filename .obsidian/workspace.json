@@ -88,9 +88,19 @@
                 "currentVersion": "1.4.16"
               }
             }
+          },
+          {
+            "id": "fbc10d260cbe43da",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -214,7 +224,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -237,7 +249,7 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.7\r\nDownload media files": false
     }
   },
-  "active": "2ce74e5600df8bc5",
+  "active": "fbc10d260cbe43da",
   "lastOpenFiles": [
     "UX Bible/Components/1.2 Button Best Practices.md",
     "UX Bible/Components/1. Buttons Intro.md",
