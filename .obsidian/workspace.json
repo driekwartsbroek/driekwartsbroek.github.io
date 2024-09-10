@@ -142,9 +142,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ada4ece61ba4baaf",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -293,7 +303,7 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.7\r\nDownload media files": false
     }
   },
-  "active": "5d4f6eb637cc84df",
+  "active": "ada4ece61ba4baaf",
   "lastOpenFiles": [
     "Readme.md",
     "Untitled 1.md",
